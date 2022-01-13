@@ -1,0 +1,13 @@
+{
+  "value" : "- Is it a wild animal?\n",
+  "leftNode" : {
+    "value" : "Is it a cat?\n",
+    "leftNode" : null,
+    "rightNode" : null
+  },
+  "rightNode" : {
+    "value" : "Is it a tiger?\n",
+    "leftNode" : null,
+    "rightNode" : null
+  }
+}
